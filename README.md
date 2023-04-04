@@ -1,2 +1,2 @@
-# zondby.github.io
+# allinanton.github.io
 Curriculum Vitae creat sub forma de pagina web utilizand html si css.
