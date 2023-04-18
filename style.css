@@ -197,11 +197,7 @@ p
     color: #2a7da2;
     font-size: 16px;
 }
-.about .box h5
-{
-    display: flex;
-    font-size: 16px;
-}
+
 .skills .box
 {
     position: relative;
@@ -225,17 +221,16 @@ p
   .about.skills .professional {
     flex: 1;
     width: 50%;
+    margin-right: 20px;
   }
   
   .about.skills .personal {
     flex: 1;
     width: 50%;
+    margin-left: 20px;
   }
   
-  .about.skills .personal h2 {
-    margin-bottom: 0;
-    
-  }
+
   
   .about.skills .personal h4 {
     margin-top: 0;
@@ -259,7 +254,6 @@ p
     font-size: 18px;
     width: 20px;
 }
-
 @media(max-width:1000px)
 {
     .container
@@ -283,4 +277,3 @@ p
         grid-template-columns: repeat(1,1fr);
     }
 }
-  
